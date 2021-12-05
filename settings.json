@@ -40,7 +40,7 @@
     {
         "defaults": 
         {
-            "acrylicOpacity": 0.75,
+            "acrylicOpacity": 0.80000000000000004,
             "antialiasingMode": "grayscale",
             "colorScheme": "Custom2",
             "cursorShape": "underscore",
@@ -180,7 +180,7 @@
             "yellow": "#C19C00"
         },
         {
-            "background": "#333333",
+            "background": "#000000",
             "black": "#000000",
             "blue": "#0037DA",
             "brightBlack": "#0C0C0C",
